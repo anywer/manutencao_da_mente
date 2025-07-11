@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #f5f5dc; /* Cor de fundo clara */
+    background-color: #ffffdd; /* Cor de fundo clara */
     color: #4a4a4a; /* Cor de texto padrão */
     font-size: 16px;
     line-height: 1.6;
@@ -254,6 +254,7 @@ ul li::before {
     font-size: 1.2rem;
     margin-top: 30px;
     color: #6b8e23;
+    left: 15px;
 }
 
 .pati-penna-image {
