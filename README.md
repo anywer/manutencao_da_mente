@@ -69,7 +69,7 @@ start index.html
 Nenhuma dependência externa é necessária. Tudo funciona de forma 100% local.
 
 📷 Pré-Visualização
-Inclua aqui um ou mais prints do site, preferencialmente da página inicial e de uma seção com cursos ou sobre.
+![Descrição da imagem](https://github.com/anywer/manutencao_da_mente/raw/main/assets/site.png)
 
 📌 Melhor Cor Para Textos em Imagens
 Para imagens como a utilizada no hero background, recomendamos:
