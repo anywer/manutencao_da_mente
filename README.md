@@ -69,7 +69,7 @@ start index.html
 Nenhuma dependência externa é necessária. Tudo funciona de forma 100% local.
 
 📷 Pré-Visualização
-<img src="https://github.com/anywer/manutencao_da_mente/raw/main/assets/site.png" />
+<img src="https://github.com/anywer/manutencao_da_mente/blob/main/assets/site.png?raw=true" />
 
 📌 Melhor Cor Para Textos em Imagens
 Para imagens como a utilizada no hero background, recomendamos:
