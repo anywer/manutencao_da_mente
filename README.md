@@ -60,30 +60,15 @@ Fonte: Open Sans (Google Fonts)
 🚀 Como Usar
 Você pode clonar este repositório e abrir os arquivos diretamente no navegador.
 
-bash
-Copiar
-Editar
+
 git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-start index.html
+
 Nenhuma dependência externa é necessária. Tudo funciona de forma 100% local.
 
 📷 Pré-Visualização
 ![Descrição da Imagem](https://raw.githubusercontent.com/anywer/manutencao_da_mente/main/assets/site.png)
 
-📌 Melhor Cor Para Textos em Imagens
-Para imagens como a utilizada no hero background, recomendamos:
 
-Texto: #2f2f2f (grafite) ou #5d7262 (verde sálvia escuro)
-Se necessário mais contraste: #ffffff com text-shadow leve
-
-css
-Copiar
-Editar
-.hero-content h2 {
-    color: #5d7262;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
-}
 
 👩‍💻 Autor
 Desenvolvido por [Willy fernandes]
