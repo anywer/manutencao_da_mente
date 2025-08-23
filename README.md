@@ -13,7 +13,7 @@ O site possui um layout limpo, intuitivo e responsivo, com animações suaves e 
 ## 📁 Estrutura do Projeto
 
 ```bash
-/
+
 ├── index.html          # Página principal (Home)
 ├── sobre.html          # Página institucional "Sobre Nós"
 ├── cursos.html         # Página com detalhes dos cursos oferecidos
@@ -58,15 +58,15 @@ JavaScript Vanilla (puro) — Sem frameworks, ideal para performance e controle 
 Fonte: Open Sans (Google Fonts)
 
 🚀 Como Usar
-Você pode clonar este repositório e abrir os arquivos diretamente no navegador.
+Você pode ascessar o link a baixo
+http://clinicamanutencaodavida.com/sobre.html
 
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Nenhuma dependência externa é necessária. Tudo funciona de forma 100% local.
 
 📷 Pré-Visualização
-![Descrição da Imagem](https://raw.githubusercontent.com/anywer/manutencao_da_mente/main/assets/site.png)
+![Descrição da Imagem](https://github.com/anywer/manutencao_da_mente/blob/main/assets/site.png?raw=true)
 
 
 
