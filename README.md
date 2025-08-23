@@ -59,9 +59,8 @@ Fonte: Open Sans (Google Fonts)
 
 🚀 Como Usar
 Você pode ascessar o link a baixo
-http://clinicamanutencaodavida.com/sobre.html
 
-
+http://clinicamanutencaodavida.com/index.html
 
 Nenhuma dependência externa é necessária. Tudo funciona de forma 100% local.
 
